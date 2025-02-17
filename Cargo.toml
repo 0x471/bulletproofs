@@ -1,0 +1,9 @@
+[package]
+name = "bulletproofs"
+version = "0.1.0"
+
+
+[dependencies]
+ark-bn254 = "0.4.0"
+ark-ff = "0.4.0"
+sha2 = "0.10.0"
